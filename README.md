@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ShiqiLu77
-- 👀 I’m interested in cheese & coffee
+- 👋 Hi, I’m @ShiqiLu77, a female programmer who loves to write code
+- 👀 I’m interested in cheese & coffee & casual mini-games
 - 🌱 I’m currently learning information systems
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Big data system related projects
+- 📫 You can contact me via email sevup@qq.com
 
 <!---
 ShiqiLu77/ShiqiLu77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

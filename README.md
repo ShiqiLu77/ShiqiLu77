@@ -27,7 +27,7 @@ Driven software engineer with 4 years of IT experience, including roles at Scoti
 
 ### **📫 Contact Me**
 
-LinkedIn - [Shiqi Lu](https://www.linkedin.com/in/shiqilu)
+LinkedIn - [Shiqi(Chee) Lu](https://www.linkedin.com/in/shiqilu)
 <!---
 ShiqiLu77/ShiqiLu77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

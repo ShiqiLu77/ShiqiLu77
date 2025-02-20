@@ -14,7 +14,7 @@ Driven software engineer with 4 years of IT experience, including roles at Scoti
 
 - **Front-end development:** JavaScript, React, Redux, Node.js, TypeScript, HTML, CSS
 
-- **Database:** Redis, MySQL, PostgreSQL, Oracle, SQL, MongDB, Redis, Alembic  
+- **Database:** MySQL, PostgreSQL, Oracle, SQL, MongDB, Redis, Alembic  
 
 - **Ensuring code quality:** Pytest, Selenium, Unit test, Junit 
 
